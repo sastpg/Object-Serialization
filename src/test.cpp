@@ -84,7 +84,7 @@ void xml_serialization_test() {
     xml_arithmetic_test();
     xml_string_test();
     xml_vector_test();
-	xml_list_test();
+    // xml_list_test();
     xml_set_test();
     xml_map_test();
     xml_ptr_test();
